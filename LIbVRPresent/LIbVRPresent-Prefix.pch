@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'LIbVRPresent' target in the 'LIbVRPresent' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
+
+#define __linux__
+#define GFX_ANDROID_OPENGL_ES
+#define STATIC_IMGPROC_LIB

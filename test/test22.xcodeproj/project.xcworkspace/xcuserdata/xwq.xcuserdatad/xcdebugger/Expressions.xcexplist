@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CVRStreamOpenglES::Present(unsigned char**, unsigned long*, unsigned long):GfxPresentStreamOpenGLES.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "ppbPlanes[1]">
+            </PersistentString>
+            <PersistentString
+               value = "pBuf">
+            </PersistentString>
+            <PersistentString
+               value = "ppbPlanes[2]">
+            </PersistentString>
+            <PersistentString
+               value = "ppbPlanes[0]">
+            </PersistentString>
+            <PersistentString
+               value = "m_pBuf">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GfxPrepareDataV2::Init(CI_IMAGEPROC_CREATEOPTION*, unsigned long*, unsigned long*):GfxPresentPrepare.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

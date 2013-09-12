@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[GfxIosOpenGles RenderTexture:buffer:]:GfxIosOpenGles.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mSurfaces[i].vertexbufferId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GfxIosOpenGles SetSrcRectTexture:rect:]:GfxIosOpenGles.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mSurfaces[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CVRStreamOpenglES::Set(_GUID const&amp;, unsigned long, void*, unsigned long, void*, unsigned long):GfxPresentStreamOpenGLES.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "CGfxAndroidOGL::ResizeInternal(void*):GfxAndroid_OpenGlES.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_zoomMode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CVideoWindow::SetDisplayMode(tagRECT*, tagRECT*):GfxVideoWindow.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "-[GfxIosOpenGles SetDestRectTexture:rect:]:GfxIosOpenGles.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mSurfaces[i].vertexbufferId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CVRProcOpenglES::Render(unsigned long):GfxPresentProcOpenGLES.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[EAGLView drawView:]:EAGLView.m">
+      </ContextState>
+      <ContextState
+         contextName = "CVRStreamOpenglES::Update():GfxPresentStreamOpenGLES.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "-[GfxIosOpenGles createTextureWidth:height:format:]:GfxIosOpenGles.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GfxIosOpenGles compileShader:withType:]:GfxIosOpenGles.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
